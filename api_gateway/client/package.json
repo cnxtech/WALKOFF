@@ -86,7 +86,7 @@
     "reflect-metadata": "^0.1.12",
     "rxjs": "~6.2.0",
     "rxjs-compat": "^6.3.3",
-    "select2": "~4.0.3",
+    "select2": "~4.0.6",
     "systemjs": "~0.20.12",
     "zone.js": "~0.8.26"
   },
